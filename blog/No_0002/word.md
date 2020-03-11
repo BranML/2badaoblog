@@ -45,7 +45,7 @@
 
 ![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0002/chrome%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F%E6%8C%89%E9%92%AE%E6%88%AA%E5%9B%BE.png?raw=true)
 
-3、开启开发者模式
+3、开启开发者模式（右上角）
 
 ![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0002/chrome%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F.png?raw=true)
 
