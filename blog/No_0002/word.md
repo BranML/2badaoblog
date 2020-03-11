@@ -53,4 +53,14 @@
 
 5、安装成功后的效果
 
-![]()
+你会在右上角的扩展插件处看到这个图标
+
+![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0002/chrono%E5%9B%BE%E6%A0%87.png?raw=true)
+
+点开后有如下界面
+
+![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0002/chrono%E7%95%8C%E9%9D%A2.png?raw=true)
+
+## 总结
+
+十分好用的下载器插件 强烈建议使用
