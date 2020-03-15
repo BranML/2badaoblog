@@ -4,6 +4,8 @@
 
 是一款下载工具，但是有可以媲美idm下载速度，而且支持磁力链接等
 
+官网简介为 **免费无广告的idm / torrent 合成体**
+
 **详细功能如下**
 
 + 支持浏览器(Chrome/FireFox)接管下载
@@ -27,11 +29,46 @@
 
 ## 界面
 
-XDown主界面
+**XDown主界面**
 
 ![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0006_windows%E4%B8%8B%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%99%A8-XDown/Xdown%E7%95%8C%E9%9D%A2.png?raw=true)
 
-XDown任务界面
+**XDown任务界面**
 
 ![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0006_windows%E4%B8%8B%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%99%A8-XDown/XDown%E4%BB%BB%E5%8A%A1%E7%95%8C%E9%9D%A2.png?raw=true)
 
+**XDown设置界面**
+
+![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0006_windows%E4%B8%8B%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%99%A8-XDown/XDown%E8%AE%BE%E7%BD%AE%E7%95%8C%E9%9D%A2.png?raw=true)
+
+**XDown设置详细界面**
+
+![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0006_windows%E4%B8%8B%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%99%A8-XDown/XDown%E8%AE%BE%E7%BD%AE%E8%AF%A6%E7%BB%86%E7%95%8C%E9%9D%A2.png?raw=true)
+
+## 特色功能
+
+**通过简单配置可以实现以下功能**
+
++ 傻瓜式下载YouTube视频
+
++ 客户端伪装
+
++ 突破百度云限制 告诉下载文件 且没有大小限制
+
++ ...
+
+**更多功能介绍请移步官网**
+
+[XDown官网](https://xdown.org/)
+
+## 软件下载
+
+[官网下载页](https://dl.xdown.org/xdown-1.0.2.9.zip)
+
+[国际下载地址](https://dl.xdown.org/xdown-1.0.2.9.zip)
+
+[国内下载地址](https://cn-dl.xdown.org:2053/xdown-1.0.2.9.zip)
+
+## 总结
+
+有时一款下载器并不能满足你所需要的全部要求，这款下载器有较全的功能，非常值得一试
