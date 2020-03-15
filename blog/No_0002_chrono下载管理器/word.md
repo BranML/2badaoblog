@@ -9,7 +9,7 @@
 
 以下是截图
 
-![](https://github.com/tothepythonmoon/2badaoblog/blob/da4eb87d8d188dc7b41bd5dafb20060e685948bf/blog/No_0002/chrono%E6%88%AA%E5%9B%BE.png?raw=true)
+![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0002_chrono%E4%B8%8B%E8%BD%BD%E7%AE%A1%E7%90%86%E5%99%A8/chrono%E6%88%AA%E5%9B%BE.png?raw=true)
 
 ## 优点
 
@@ -33,7 +33,8 @@
 
 这款插件的离线安装包已被我备份在github（我也是从其他人github那里备份的）
 
-[下载链接](https://github.com/tothepythonmoon/2badaoblog/raw/master/blog/No_0002/0.9.3_0.zip)
+[**下载链接**](https://github.com/tothepythonmoon/2badaoblog/raw/master/blog/No_0002_chrono%E4%B8%8B%E8%BD%BD%E7%AE%A1%E7%90%86%E5%99%A8/0.9.3_0.zip)
+
 
 这个扩展是0.9.3版本
 
@@ -43,11 +44,11 @@
 
 2、点击chrome的扩展程序 如下图
 
-![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0002/chrome%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F%E6%8C%89%E9%92%AE%E6%88%AA%E5%9B%BE.png?raw=true)
+![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0002_chrono%E4%B8%8B%E8%BD%BD%E7%AE%A1%E7%90%86%E5%99%A8/chrome%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F%E6%8C%89%E9%92%AE%E6%88%AA%E5%9B%BE.png?raw=true)
 
-3、开启开发者模式***（右上角）***
+3、开启开发者模式 ***在右上角***
 
-![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0002/chrome%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F.png?raw=true)
+![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0002_chrono%E4%B8%8B%E8%BD%BD%E7%AE%A1%E7%90%86%E5%99%A8/chrome%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F.png?raw=true)
 
 4、将下载好的zip安装包拖入chrome扩展程序页面
 
@@ -55,11 +56,11 @@
 
 你会在右上角的扩展插件处看到这个图标
 
-![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0002/chrono%E5%9B%BE%E6%A0%87.png?raw=true)
+![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0002_chrono%E4%B8%8B%E8%BD%BD%E7%AE%A1%E7%90%86%E5%99%A8/chrono%E5%9B%BE%E6%A0%87.png?raw=true)
 
 点开后有如下界面
 
-![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0002/chrono%E7%95%8C%E9%9D%A2.png?raw=true)
+![](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0002_chrono%E4%B8%8B%E8%BD%BD%E7%AE%A1%E7%90%86%E5%99%A8/chrono%E7%95%8C%E9%9D%A2.png?raw=true)
 
 ## 总结
 
