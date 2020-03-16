@@ -23,4 +23,13 @@ git add .
 git commit -m "message"
 git push origin master
 ```
+
 **中途会要求你输入github用户名和密码**
+
+**代码解释**
+
+git add . 上传位置为当前项目文件夹下的根目录
+
+git commit -m "message" 上传内容的描述
+
+git push origin master 利用push功能以master身份上传origin分支
