@@ -42,6 +42,10 @@
 
 ![猫爪_界面详细解释](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0003_chrome%E9%9F%B3%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2%E4%B9%8B%E7%8C%AB%E6%8A%93/%E7%8C%AB%E7%88%AA_%E7%95%8C%E9%9D%A2%E8%AF%A6%E7%BB%86%E8%A7%A3%E9%87%8A.png?raw=true)
 
+---
+
+---
+
 ## 高级应用-对插件的自定义
 
 右键点击猫抓 点击选项按钮 可以对猫抓进行设置
