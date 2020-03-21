@@ -62,6 +62,10 @@
 
 ![猫抓其他设置](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0003_chrome%E9%9F%B3%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2%E4%B9%8B%E7%8C%AB%E6%8A%93/%E7%8C%AB%E6%8A%93%E5%85%B6%E4%BB%96%E8%AE%BE%E7%BD%AE.png?raw=true)
 
+---
+
+---
+
 ## 使用感受
 
 这个插件使用下来的感受就是非常方便 没有多余的界面和功能 简单明了 十分推荐下载试一试
