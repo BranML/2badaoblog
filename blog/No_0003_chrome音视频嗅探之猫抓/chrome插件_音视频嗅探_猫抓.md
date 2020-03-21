@@ -18,11 +18,11 @@
 
 2.点击网页上的播放按钮 播放视频或者音频
 
-3.点击猫抓的图标点击选项按钮。
+3.点击猫抓的图标点击选项按钮
 
 下面三个图片分别是对视频和音频的抓取和**插件功能详细解释**
 
-**视频演示**
+**视频抓取演示**
 
 ![猫抓_视频演示](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0003_chrome%E9%9F%B3%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2%E4%B9%8B%E7%8C%AB%E6%8A%93/%E7%8C%AB%E6%8A%93_%E8%A7%86%E9%A2%91%E6%BC%94%E7%A4%BA.png?raw=true)
 
@@ -30,7 +30,7 @@
 
 ---
 
-**音频演示**
+**音频抓取演示**
 
 ![猫抓_音频演示](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0003_chrome%E9%9F%B3%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2%E4%B9%8B%E7%8C%AB%E6%8A%93/%E7%8C%AB%E6%8A%93_%E9%9F%B3%E9%A2%91%E6%BC%94%E7%A4%BA.png?raw=true)
 
