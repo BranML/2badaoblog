@@ -22,9 +22,23 @@
 
 下面三个图片分别是对视频和音频的抓取和**插件功能详细解释**
 
+**视频演示**
+
 ![猫抓_视频演示](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0003_chrome%E9%9F%B3%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2%E4%B9%8B%E7%8C%AB%E6%8A%93/%E7%8C%AB%E6%8A%93_%E8%A7%86%E9%A2%91%E6%BC%94%E7%A4%BA.png?raw=true)
 
+---
+
+---
+
+**音频演示**
+
 ![猫抓_音频演示](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0003_chrome%E9%9F%B3%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2%E4%B9%8B%E7%8C%AB%E6%8A%93/%E7%8C%AB%E6%8A%93_%E9%9F%B3%E9%A2%91%E6%BC%94%E7%A4%BA.png?raw=true)
+
+---
+
+---
+
+**界面详细介绍**
 
 ![猫爪_界面详细解释](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0003_chrome%E9%9F%B3%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2%E4%B9%8B%E7%8C%AB%E6%8A%93/%E7%8C%AB%E7%88%AA_%E7%95%8C%E9%9D%A2%E8%AF%A6%E7%BB%86%E8%A7%A3%E9%87%8A.png?raw=true)
 
@@ -35,6 +49,10 @@
 1.**添加自定义后缀抓取 例如可以添加jpg格式 来抓取网页上图片**
 
 ![]()
+
+---
+
+---
 
 2.**还有一些其他设置有编程基础的同学可以自定义修改**
 
