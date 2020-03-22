@@ -8,17 +8,17 @@
 
 ## 安装
 
-1.通过访问chrome应用商店 [**直接下载**](https://chrome.google.com/webstore/detail/%E7%8C%AB%E6%8A%93/jfedfbgedapdagkghmgibemcoggfppbb)
+1. 通过访问chrome应用商店 [**直接下载**](https://chrome.google.com/webstore/detail/%E7%8C%AB%E6%8A%93/jfedfbgedapdagkghmgibemcoggfppbb)
 
-2.通过我备份的插件安装包来下载 [**点此下载**](https://github.com/tothepythonmoon/2badaoblog/raw/master/blog/No_0003_chrome%E9%9F%B3%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2%E4%B9%8B%E7%8C%AB%E6%8A%93/%E7%8C%AB%E6%8A%93_1.0.15_0.zip)
+2. 通过我备份的插件安装包来下载 [**点此下载**](https://github.com/tothepythonmoon/2badaoblog/raw/master/blog/No_0003_chrome%E9%9F%B3%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2%E4%B9%8B%E7%8C%AB%E6%8A%93/%E7%8C%AB%E6%8A%93_1.0.15_0.zip)
 
 ## 如何使用
 
-1.打开一个音频或者视频网站
+1. 打开一个音频或者视频网站
 
-2.点击网页上的播放按钮 播放视频或者音频
+2. 点击网页上的播放按钮 播放视频或者音频
 
-3.点击猫抓的图标点击选项按钮
+3. 点击猫抓的图标点击选项按钮
 
 下面三个图片分别是对视频和音频的抓取和**插件功能详细解释**
 
@@ -50,7 +50,7 @@
 
 右键点击猫抓 点击选项按钮 可以对猫抓进行设置
 
-1.**添加自定义后缀抓取 例如可以添加jpg格式 来抓取网页上图片**
+1. **添加自定义后缀抓取 例如可以添加jpg格式 来抓取网页上图片**
 
 ![猫爪自定义后缀抓取](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0003_chrome%E9%9F%B3%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2%E4%B9%8B%E7%8C%AB%E6%8A%93/%E7%8C%AB%E7%88%AA%E8%87%AA%E5%AE%9A%E4%B9%89%E5%90%8E%E7%BC%80%E6%8A%93%E5%8F%96.png?raw=true)
 
@@ -58,7 +58,7 @@
 
 ---
 
-2.**还有一些其他设置有编程基础的同学可以自定义修改**
+2. **还有一些其他设置有编程基础的同学可以自定义修改**
 
 ![猫抓其他设置](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0003_chrome%E9%9F%B3%E8%A7%86%E9%A2%91%E5%97%85%E6%8E%A2%E4%B9%8B%E7%8C%AB%E6%8A%93/%E7%8C%AB%E6%8A%93%E5%85%B6%E4%BB%96%E8%AE%BE%E7%BD%AE.png?raw=true)
 
