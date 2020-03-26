@@ -62,3 +62,13 @@ while (j < 2 ):
 安装好这些第3方库之后你只需要把Python程序中的节目地址换成你需要下载的节目网址即可
 
 然后运行Python程序这样他就会自动把那一个页面的所有节目都下载下来 
+
+## 运行效果
+
+![colab运行CNTV爬虫](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0013_%E4%B8%80%E4%B8%AA%E4%B8%8B%E8%BD%BDCNTV%EF%BC%88%E5%A4%AE%E8%A7%86%E7%BD%91%E8%A7%86%E9%A2%91%EF%BC%89%E7%89%B9%E5%AE%9A%E8%8A%82%E7%9B%AE%E7%9A%84python%E7%A8%8B%E5%BA%8F/colab%E8%BF%90%E8%A1%8CCNTV%E7%88%AC%E8%99%AB.png?raw=true)
+
+---
+
+---
+
+![CNTV购物街截图](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0013_%E4%B8%80%E4%B8%AA%E4%B8%8B%E8%BD%BDCNTV%EF%BC%88%E5%A4%AE%E8%A7%86%E7%BD%91%E8%A7%86%E9%A2%91%EF%BC%89%E7%89%B9%E5%AE%9A%E8%8A%82%E7%9B%AE%E7%9A%84python%E7%A8%8B%E5%BA%8F/CNTV%E8%B4%AD%E7%89%A9%E8%A1%97%E6%88%AA%E5%9B%BE.png?raw=true)
