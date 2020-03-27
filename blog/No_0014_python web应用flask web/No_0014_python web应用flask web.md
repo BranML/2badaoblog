@@ -27,33 +27,6 @@ virtualenv venv
 
 **虚拟环境目录结构**
 
-env下的文件结构 这里只展示两层文件结构
-
-.
-├── bin
-│   ├── activate
-│   ├── activate.csh
-│   ├── activate.fish
-│   ├── activate_this.py
-│   ├── easy_install
-│   ├── easy_install-2.7
-│   ├── flask
-│   ├── pip
-│   ├── pip2
-│   ├── pip2.7
-│   ├── python -> python2
-│   ├── python2
-│   ├── python2.7 -> python2
-│   ├── python-config
-│   └── wheel
-├── lib
-│   └── python2.7
-├── local
-│   ├── bin -> /home/twobadao/flasky/venv/bin
-│   └── lib -> /home/twobadao/flasky/venv/lib
-└── share
-    └── python-wheels
-
 ![venv文件结构]()
 
 ## 激活虚拟环境
@@ -63,3 +36,37 @@ venv 是虚拟环境名称
 ```
 source venv/bin/activate
 ```
+
+激活成功后终端内命令行最前面会有虚拟环境的名称 例如： (venv) $
+
+回到全局终端 使用 ```deactivate```
+
+## 利用pip安装第三方python包
+
+首先激活虚拟环境
+
+然后在虚拟环境中利用
+
+```python
+pip install flask
+```
+
+安装flask
+
+**测试flask是否安装成功** 
+
+进入python交互式编程模式
+
+```python
+python
+```
+
+利用import倒入flask包 回车后不报错说明安装成功
+
+```python
+import flask
+```
+
+## 小结
+
+并无难度 主要是要安装好开发环境 在编程前检验是否在虚拟环境内 不要搞混
