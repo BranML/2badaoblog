@@ -23,11 +23,11 @@ virtualenv venv
 ```
 会自动搭建好一个虚拟的venv的python环境 这个环境不会影响你系统本身的python环境
 
-![示例项目文件目录]()
+![示例项目文件目录](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0014_python%20web%E5%BA%94%E7%94%A8flask%20web/%E7%A4%BA%E4%BE%8B%E9%A1%B9%E7%9B%AE%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95.png?raw=true)
 
 **虚拟环境目录结构**
 
-![venv文件结构]()
+![venv文件结构](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0014_python%20web%E5%BA%94%E7%94%A8flask%20web/venv%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.png?raw=true)
 
 ## 激活虚拟环境
 
