@@ -33,3 +33,35 @@ Windows10打开任务管理器查看
 如果右键没有Radeon设置，可以点击开始菜单，寻找AMD settings，或者你需要安装AMD的显卡驱动程序，[点击跳转学安装AMD显卡驱动YouTube](https://www.youtube.com/watch?v=QBYCSwnSSCs)
 
 ![开始菜单AMDsetting](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0023_%E5%BC%80%E5%90%AF%E7%8B%AC%E7%AB%8BAMD%E6%98%BE%E5%8D%A1/output-1024x576.jpeg?raw=true)
+
+打开后选择系统
+
+![AMD系统]()
+
+依次点击 可交换显卡 运行中的应用程序 已安装的配置好的应用程序
+
+![AMD可交换显卡]()
+
+点击浏览选项
+
+![AMD浏览选项]()
+
+在弹出的窗口中选择你要使用独立显卡运行的程序（这里以英雄联盟为例）
+
+![AMD选择程序]()
+
+程序位置可以通过右键属性查看
+
+英雄联盟的启动程序在"E:\Program Files\腾讯游戏\英雄联盟\TCLS\Client.exe"(不是桌面快捷方式的路径)
+
+炉石传说启动程序在"E:\exeinstall\Hearthstone\Hearthstone Beta Launcher.exe"（ 不是桌面快捷方式的路径 ）
+
+![程序路径]()
+
+按照启动程序的所在路径，在刚刚设置程序使用独立显卡的弹窗里选择好程序
+
+![选定程序]()
+
+最后选择程序双击即可
+
+你所添加的这个程序就会使用AMD独立显卡运行
