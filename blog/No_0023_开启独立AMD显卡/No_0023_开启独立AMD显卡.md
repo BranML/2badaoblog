@@ -36,19 +36,19 @@ Windows10打开任务管理器查看
 
 打开后选择系统
 
-![AMD系统]()
+![AMD系统](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0023_%E5%BC%80%E5%90%AF%E7%8B%AC%E7%AB%8BAMD%E6%98%BE%E5%8D%A1/AMD%E7%B3%BB%E7%BB%9F.jpeg?raw=true)
 
 依次点击 可交换显卡 运行中的应用程序 已安装的配置好的应用程序
 
-![AMD可交换显卡]()
+![AMD可交换显卡](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0023_%E5%BC%80%E5%90%AF%E7%8B%AC%E7%AB%8BAMD%E6%98%BE%E5%8D%A1/AMD%E5%8F%AF%E4%BA%A4%E6%8D%A2%E6%98%BE%E5%8D%A1jpeg.jpeg?raw=true)
 
 点击浏览选项
 
-![AMD浏览选项]()
+![AMD浏览选项](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0023_%E5%BC%80%E5%90%AF%E7%8B%AC%E7%AB%8BAMD%E6%98%BE%E5%8D%A1/AMD%E6%B5%8F%E8%A7%88%E9%80%89%E9%A1%B9.jpeg?raw=true)
 
 在弹出的窗口中选择你要使用独立显卡运行的程序（这里以英雄联盟为例）
 
-![AMD选择程序]()
+![AMD选择程序](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0023_%E5%BC%80%E5%90%AF%E7%8B%AC%E7%AB%8BAMD%E6%98%BE%E5%8D%A1/AMD%E9%80%89%E6%8B%A9%E7%A8%8B%E5%BA%8F.jpeg?raw=true)
 
 程序位置可以通过右键属性查看
 
@@ -56,11 +56,11 @@ Windows10打开任务管理器查看
 
 炉石传说启动程序在"E:\exeinstall\Hearthstone\Hearthstone Beta Launcher.exe"（ 不是桌面快捷方式的路径 ）
 
-![程序路径]()
+![程序路径](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0023_%E5%BC%80%E5%90%AF%E7%8B%AC%E7%AB%8BAMD%E6%98%BE%E5%8D%A1/%E7%A8%8B%E5%BA%8F%E8%B7%AF%E5%BE%84.jpeg?raw=true)
 
 按照启动程序的所在路径，在刚刚设置程序使用独立显卡的弹窗里选择好程序
 
-![选定程序]()
+![选定程序](https://github.com/tothepythonmoon/2badaoblog/blob/master/blog/No_0023_%E5%BC%80%E5%90%AF%E7%8B%AC%E7%AB%8BAMD%E6%98%BE%E5%8D%A1/%E9%80%89%E5%AE%9A%E7%A8%8B%E5%BA%8F.jpeg?raw=true)
 
 最后选择程序双击即可
 
