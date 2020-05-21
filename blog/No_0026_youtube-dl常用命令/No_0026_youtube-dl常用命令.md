@@ -1,11 +1,16 @@
 # No_0026_youtube-dl常用命令
 
 ## youtube-dl简介
-
+[youtube-dl官网](https://youtube-dl.org/)
 - youtube-dl是一个能够下载各大视频网站视频的命令行程序
+<!--more-->
 - 基于python开发的
 - 支持Windows，Unix box，Mac OS X
 - 可以二次开发
+
+## youtube-dl程序发布页面
+
+[youtube-dl发布页传送门](https://github.com/ytdl-org/youtube-dl/releases)
 
 ## youtube-dl支持的视频网站
 
@@ -15,6 +20,9 @@
 
 但是视频网站的升级等原因，可能会导致不能下载，但是主流的视频网站，开发者们也都在积极开发，大部分还是可以用的
 
+## youtube-dl使用前的准备
+下载ffmpeg，下载youtube-dl，并将二者添加进环境变量
+[ffmpeg官网](http://ffmpeg.org/)
 ## youtube-dl常用命令
 
 ### 简易使用方式：youtube-dl+视频网址 
